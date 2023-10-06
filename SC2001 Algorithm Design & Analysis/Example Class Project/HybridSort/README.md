@@ -30,7 +30,7 @@ Hybrid Sort performs better than Merge Sort
 ![image](https://github.com/Cebelle1/NTU-SCSE-Y2/assets/84433822/be1579d5-2e4a-4209-8552-a35640e449ec)
 ![image](https://github.com/Cebelle1/NTU-SCSE-Y2/assets/84433822/656798e3-f66f-45ed-aa56-ea76b2c24399)
 
-
+(if this repo has helped u with ur project can u give this a star to let me know xd)
 
 
 
