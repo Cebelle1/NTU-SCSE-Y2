@@ -1,0 +1,6 @@
+commands
+
+1. make to Makefile
+2. sudo insmod hello_lkm.ko to acess kernel (for hello, change to gpio for gpio)
+3. dmesg | tail to show messages
+4. sudo rmmod hello_lkm.ko to remove module (for hello is to show the goodbye message)
